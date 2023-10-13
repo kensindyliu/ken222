@@ -27,7 +27,7 @@ In this project, I practiced how to align every element properly. The most chall
 ![Example Image](GithubImages/dropdownMenuNavigation.jpeg) 
 
 this is can be achieved by following css:
-```HTML
+```CSS
 @media screen and (max-width:768px) {
     .header-div span {
         display: none;
