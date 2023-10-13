@@ -6,6 +6,7 @@ Actually, at the end of '**Introducing to web development**', my teacher Mr.Andr
 ## What considerations or decisions did I make while creating it?
 As a prject assigned by my teacher, how I do it will affect the score in this subject. Therefore, all the knowledge I learned from the class should be used in the project, not only is the code proficiency important, but also some coding rules that I have to follow. For example:
 - All files must be organized into different folders properly:
+  
 ![Example Image](GithubImages/folder.jpeg) 
 - and also there are some coding rules such as HTML structure:
 ```HTML
